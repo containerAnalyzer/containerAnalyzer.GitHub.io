@@ -7,10 +7,13 @@ title: FlowAtlas
 ---
 
 ## News
-- 12 true bugs are confirmed
+- 12 true bugs are confirmed.
 
 ## Tips
 The following tips can help you to understand the reports.
+- The reports are submitted by Github issues or pull requests.
+- The *link* in italics indicates the report has not been confirmed.
+- **Hibernate-ORM** includes some source code of **bnd** and causes an NPE. We reports the bug to the developers of **bnd** instead of **Hibernate-ORM**.
 
 ## Details of Reports
 
