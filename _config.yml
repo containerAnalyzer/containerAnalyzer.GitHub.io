@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: FlowAtlas
 email: container.analyzer@gmail.com
-description: "Precise and Efficient Value Flow Analysis for ProgramsManipulating Containers"
+description: "Precise and Efficient Value Flow Analysis for Programs Manipulating Containers"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
