@@ -25,5 +25,5 @@ The following tips can help you to understand the reports.
 | IoTDB | [link1](https://github.com/apache/iotdb/issues/3481) [link2](https://github.com/apache/iotdb/issues/3482) |
 | Cassandra | [*link1*](https://github.com/apache/cassandra/pull/1095) [*link2*](https://github.com/apache/cassandra/pull/1095) |
 | Hibernate-ORM | [link](https://github.com/bndtools/bnd/issues/4724) |
-| Hadoop | [*link*](https://github.com/apache/hadoop/pull/3164) |
+| Hadoop | [*link1*](https://github.com/apache/hadoop/pull/3164) | [*link2*](https://github.com/apache/hadoop/pull/3164) | [*link3*](https://github.com/apache/hadoop/pull/3164)
 | NetBeans | [*link1*](https://github.com/apache/netbeans/pull/3031) [*link2*](https://github.com/apache/netbeans/pull/3031) [*link3*](https://github.com/apache/netbeans/pull/3031) |
