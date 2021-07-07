@@ -7,11 +7,10 @@ title: FlowAtlas
 ---
 
 ## News
-- TODO
+- 12 true bugs are confirmed
 
 ## Tips
 The following tips can help you to understand the reports.
-- TODO
 
 ## Details of Reports
 
