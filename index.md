@@ -3,11 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: FlowAtlas
+title: Anchor
 ---
 
 ## News
 - 12 true bugs are confirmed.
+
+## Empirical Data
+[Here](empirical.pdf) is the detailed empirical data of Java EE.
 
 ## Tips
 The following tips can help you to understand the reports. 
